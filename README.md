@@ -1,4 +1,7 @@
-# GhostKat
+
+
+(https://webtorrent.io/ + https://ethereum.org/ + https://infura.io)
+
 
 GhostKat.org is a very simple method that replaces the two needs for a server, or intermediary of any kind (at least when it comes to torrenting). 
 
@@ -49,3 +52,8 @@ We will distribute the rest of our initial supply to the rest of the community, 
 The version of GhostKat.org currently live is a prototype with a limited capacity of visible torents. It is only showing posts the first ten posts of the middle palace. We have a version that loads all the palace torrent into different tables, and has a capacity of hundreds of thousands. But, before we go ahead and let everyone into the system, we need to test it publicly. Over the next few weeks we will expand the interface based on the amount of content being posted on the system.
 
 # How To Post and Host
+![alt text](https://webtorrent.io/img/WebTorrent.png "WebTorrent")
+
+![alt text](http://website-thumbnails.informer.com/thumbnails/280x202/i/infura.io.png "INFURA")
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ETHEREUM-YOUTUBE-PROFILE-PIC.png/240px-ETHEREUM-YOUTUBE-PROFILE-PIC.png "Ethereum")
