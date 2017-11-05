@@ -14,17 +14,15 @@ There is a free array called Mr. Bones. You don’t need any DBZ to post on Mr.B
 
 The order of “palaces”, is as follows.
 
-# Palaces
-Name, post function, and balance needed to post.
-Zero Palace - zPost - onlyOwner
-Legend Palace - legendPost - 999,999
-Kat Kafe - katPost - 27000
-Middle Palace - middlePost - 1000
-Open Palace - openPost - 333
-Lower Palace - lowerPost - 111
-Mr. Bones - Ridin - 0 
+# Zero Palace - zPost - onlyOwner
+# Legend Palace - legendPost - 999,999
+# Kat Kafe - katPost - 27000
+# Middle Palace - middlePost - 1000
+# Open Palace - openPost - 333
+# Lower Palace - lowerPost - 111
+# Mr. Bones - Ridin - 0 
 
-We have set a public buy price of one Ether for one thousand DBZ, with an initial supply of 3,999,999. The price is so high because we really don’t want people buying into the system before it has any value as that would dilute trust. The token and arrays are armed with a ban function which will prevent posting or transfer of DBZ from a specified account. 
+We have set a public buy price of one Ether for one thousand DBZ, with an initial supply of 3,999,999. The price is so high because we really don’t want people buying into the system before it has any value as that would dilute trust. The token and arrays are armed with a ban function which will prevent posting or transfer of DBZ from a specified account. The various levels only organize by trust, but we can simply add tags to the torrent names, and then subdivide the palace itself by media type.
 
 We have a very straightforward roadmap for making DBZ a resilient democratic organization.
 
@@ -41,3 +39,4 @@ We will distribute the rest of our initial supply to the rest of the community, 
 # Public Alpha
 The version of GhostKat.org currently live is a prototype with a limited capacity of visible torents. It is only showing posts the first ten posts of the middle palace. We have a version that loads all the palace torrent into different tables, and has a capacity of hundreds of thousands. But, before we go ahead and let everyone into the system, we need to test it publicly. Over the next few weeks we will expand the interface based on the amount of content being posted on the system.
 
+# How To Post and Host
