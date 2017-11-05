@@ -14,19 +14,22 @@ There is a free array called Mr. Bones. You don’t need any DBZ to post on Mr.B
 
 The order of “palaces”, is as follows.
 
-Zero Palace - zPost - onlyOwner
+Zero Palace 
+      onlyOwner
+Legend Palace
+      999,999
 
-Legend Palace - legendPost - 999,999
+Kat Kafe
+      27000
+Middle Palace
+      1000
+Open Palace
+      300
+Lower Palace
+      111
 
-Kat Kafe - katPost - 27000
-
-Middle Palace - middlePost - 1000
-
-Open Palace - openPost - 333
-
-Lower Palace - lowerPost - 111
-
-Mr. Bones - Ridin - 0 
+Mr. Bones
+      0
 
 We have set a public buy price of one Ether for one thousand DBZ, with an initial supply of 3,999,999. The price is so high because we really don’t want people buying into the system before it has any value as that would dilute trust. The token and arrays are armed with a ban function which will prevent posting or transfer of DBZ from a specified account. The various levels only organize by trust, but we can simply add tags to the torrent names, and then subdivide the palace itself by media type.
 
