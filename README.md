@@ -1,6 +1,7 @@
 # GhostKat is Unkillable, Unblockable, and Free 
 (https://webtorrent.io/ + https://ethereum.org/ + https://infura.io)
-#GK is Immortal, Immutable, and Unblockable
+
+
 GhostKat is a ghostly ghost pirate ship that can’t be sunk or censored by any government or corporation on earth! It doesn’t use a server, and gets faster the more people use it. Even more impressive, you don’t need to download anything to view our media, you can view it in browser without any plugins. Check it out at GhostKat.org! We are 100% open source, free to use, and free to copy!
 
 Our hope is to usher in the internet of 2018 with a method for sharing media which is immortal, immutable, unblockable, and globally available to everyone!
