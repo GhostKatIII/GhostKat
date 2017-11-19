@@ -24,8 +24,8 @@ With successful formation of the Dubloonz Piracy Syndikate (DPS), a "Distributed
 
 Here are the initial bounties:
 
-- 10 DBZ - Fix ghostkat.org for mobile and firefox. It's an issue with web3.js
-- 1 DBZ - Seed media via webtorrent
+- Leaky boat: 10 DBZ - Fix ghostkat.org for mobile and firefox. It's an issue with web3.js
+- First blood: 1 DBZ - Seed media via webtorrent
 
 Thank you so much for supporting us! We welcome all feedback and would especially welcome partners!
 
