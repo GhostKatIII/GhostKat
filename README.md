@@ -1,17 +1,17 @@
 ![alt text](https://i.imgur.com/C5U5GSE.png "GKEKO")
 
-GhostKat is here to haunt government censors and copyright trolls. It has been disturbed from eternal rest by ever-encroaching shareholders and ill-informed politicians who threaten to lock down the world's most powerful resource for sharing knowledge and art, the world-wide-web. 
+**GhostKat** is here to haunt government censors and copyright trolls. It has been disturbed from eternal rest by ever-encroaching shareholders and ill-informed politicians who threaten to lock down the world's most powerful resource for sharing knowledge and art, the world-wide-web. 
 
 To do this, it's animated a website that uses WebTorrent to call magnet links stored on a globally-distributed Ethereum Smart Contract. Since it exists on the blockchain rather than a traditional host server, the links are unowned and cannot be deleted or destroyed. Anyone with the contract ABI can read off the ledgers - *even behind China's "Great Firewall."* This contract also hosts the Dubloonz (DBZ) crypto-currency, which is used as a permission gate for different ledgers attached to the contract. These gates also ensure only certain people can post to certain ledgers based on how many tokens they own, a new feature for blockchain dApps ("decentralized applications"). 
 
 3,999 Dubloonz were minted for this platform. 999 are up for exchange for Ethereum (ETH) at 1 DBZ per 1 ETH, as an "Eternal Koin Offer". This is not an ICO, however success of this platform would likely drive up the price of Ethereum. DBZ are tradable as well, but mind that assets can be frozen by the creator if they are misused. In order to exchange ETH for DBZ, as well as post to the ledger system, you must set up the contract ABI in an ERC-20 compatible wallet. Parity is recommmended. You then buy DBZ using the "buy()" function. Simply transferring to the address like with many ICOs will not work. You can find a full tutorial for buying and posting via Parity here: 
 
-The requirements for posting to each ledger are as follows:
+**The requirements for posting to each ledger are as follows:**
 -  MrB: 0 DBZ (anybody can post using the Ridin() function!)
--  lowerPlane: 1 DBZ
--  openPalace: 3 DBZ
+-  lowerPlane:   1 DBZ
+-  openPalace:   3 DBZ
 -  middlePalace: 5 DBZ
--  katKafe: 27 DBZ
+-  katKafe:      27 DBZ
 -  legendPalace: 99 DBZ
 
 Come see the test site at http://ghostkat.org. It currently only loads correctly on Chrome. The first 33 posts of the lowerPlane ledger are shown. If the post is a WebTorrent-compatible magnet, it will load the magnet into the player. The use of WebTorrent enables peer-2-peer hosting of content where the more viewers there are, the more distributed the seeding will be and thus the faster the media will load. The site uses web3.js and Infura to call the ledger content client-side, the site's host server only hosts the web page. 
@@ -22,7 +22,7 @@ GhostKat is designed to be a collective project. While the first 999 DBZ are up 
 
 With successful formation of the Dubloonz Piracy Syndikate (DPS), a "Distributed Autonomous Organization" (DAO), ownership of GhostKat will transfer to the community to manage token sale and the ledger system, including minting and selling tokens at a new price, banning users, or migrating the ledger smart contract to something with higher functionality.
 
-Here are the initial bounties:
+**Here are the initial bounties:**
 
 - Leaky boat: 10 DBZ - Fix ghostkat.org for mobile and firefox. It's an issue with web3.js
 - First blood: 1 DBZ - Seed media via webtorrent
