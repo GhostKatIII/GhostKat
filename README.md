@@ -1,69 +1,37 @@
-# GhostKat is Unkillable, Unblockable, and Free 
-(https://webtorrent.io/ + https://ethereum.org/ + https://infura.io)
+![alt text](https://i.imgur.com/C5U5GSE.png "GKEKO")
 
+GhostKat is here to haunt government censors and copyright trolls. It has been disturbed from eternal rest by ever-encroaching shareholders and ill-informed politicians who threaten to lock down the world's most powerful resource for sharing knowledge and art, the world-wide-web. 
 
-GhostKat is a ghostly ghost pirate ship that can’t be sunk or censored by any government or corporation on earth! It doesn’t use a server, and gets faster the more people use it. Even more impressive, you don’t need to download anything to view our media, you can view it in browser without any plugins. Check it out at http://GhostKat.org! We are 100% open source, free to use, and free to copy!
+To do this, it's animated a website that uses WebTorrent to call magnet links stored on a globally-distributed Ethereum Smart Contract. Since it exists on the blockchain rather than a traditional host server, the links are unowned and cannot be deleted or destroyed. Anyone with the contract ABI can read off the ledgers - *even behind China's "Great Firewall."* This contract also hosts the Dubloonz (DBZ) crypto-currency, which is used as a permission gate for different ledgers attached to the contract. These gates also ensure only certain people can post to certain ledgers based on how many tokens they own, a new feature for blockchain dApps ("decentralized applications"). 
 
-Our hope is to usher in the internet of 2018 with a method for sharing media which is immortal, immutable, unblockable, and globally available to everyone!
+3,999 Dubloonz were minted for this platform. 999 are up for exchange for Ethereum (ETH) at 1 DBZ per 1 ETH, as an "Eternal Koin Offer". This is not an ICO, however success of this platform would likely drive up the price of Ethereum. DBZ are tradable as well, but mind that assets can be frozen by the creator if they are misused. In order to exchange ETH for DBZ, as well as post to the ledger system, you must set up the contract ABI in an ERC-20 compatible wallet. Parity is recommmended. You then buy DBZ using the "buy()" function. Simply transferring to the address like with many ICOs will not work. You can find a full tutorial for buying and posting via Parity here: 
 
-We use WebTorrent to handle the file transfer; it connects all users viewing the same file on GK so they can transmit the media to each other in a distributed fashion. This means there is no single node upon which the system is reliant. Rather, everyone viewing the system is simultaneously lending the system their connection. The issue here is that the magnet links users need to find each other have to be stored somewhere. This is one of the biggest issues facing the piracy community today; a number of torrent databases have been taken down just this year.
+The requirements for posting to each ledger are as follows:
+-  MrB: 0 DBZ (anybody can post using the Ridin() function!)
+-  lowerPlane: 1 DBZ
+-  openPalace: 3 DBZ
+-  middlePalace: 5 DBZ
+-  katKafe: 27 DBZ
+-  legendPalace: 99 DBZ
 
-We replace the need for a database by storing the magnet links on the blockchain, a self replicating global database, and users call the links client side using Infura. So long as one ethereum blockchain exists somewhere, so will the illegal magnet link database! No magnet links are ever handled by the operators of GhostKat, the user queries the blockchain on their own. Only people with our ERC20 standard token (Dubloonz) are able to post to our public arrays. This allows the community to trust its posters to varying degrees without any central authority. 
+Come see the test site at http://ghostkat.org. It currently only loads correctly on Chrome. The first 33 posts of the lowerPlane ledger are shown. If the post is a WebTorrent-compatible magnet, it will load the magnet into the player. The use of WebTorrent enables peer-2-peer hosting of content where the more viewers there are, the more distributed the seeding will be and thus the faster the media will load. The site uses web3.js and Infura to call the ledger content client-side, the site's host server only hosts the web page. 
 
- Our server doesn’t handle the media. Our website only serves an example html interface, and does nothing else. That interface is modular, easy to scale, and contained all in one page! We even use cdn delivered javascript libraries. The html source contains all the javascript library calls needed to open a gateway between your device and the distributed global GhostKat!
+This is proof-of-concept for a more open, more readily anonymous internet that is both created and distributed by everyone, not just a few big corporations who in turn attempt to influence laws in their favors (especially Net Neutrality).
 
-Our current html interface calls the first 100 magnets stored on the “lowerPlane” array, which requires 100 DBZ to post. Our plan is to expand the interface as we have more active posters, and also reward members of the community who come up with the best and most popular interfaces. We don’t want the community to rely on one website, GhostKat.org, to get the html source code. Ideally, everyone would have their own personalized gateway to GK locally stored on their device.
+GhostKat is designed to be a collective project. While the first 999 DBZ are up for exchange, another 999 DBZ will be given away as bounties for contributing to the project. The site and features are bare-bones to begin with, and community participation should drive the evolution of GhostKat. The last 2000ish DBZ will stay in the creator's hands, to be mostly given away later as the community gets moving with trustworthy individuals. More tokens can be minted easily as well, with adjustible prices. Initial sale of tokens goes straight into development and supporting the new community. The first release was programmed on a phone and a 1GB RAM netbook, resources are currently very limited.
 
-Our html page is only a limited example of what GK is capable of.
-Our hope is this method replaces Spotify, Netflix, and really all other content provider.
+With successful formation of the Dubloonz Piracy Syndikate (DPS), a "Distributed Autonomous Organization" (DAO), ownership of GhostKat will transfer to the community to manage token sale and the ledger system, including minting and selling tokens at a new price, banning users, or migrating the ledger smart contract to something with higher functionality.
 
-#The Eternal Koin Offering
-We have minted 3,999,999 Doubloonz, an ERC20 compliant token with advanced features.
-The Doubloonz act as a voting share in the Doubloonz Piracy Syndikate.
-Only members of the DBZ DPS have the ability to post on our arrays.
+Here are the initial bounties:
 
-The DPS-DAO will be given complete ownership control of the Doubloonz currency one month from today. The Eternal Koin Offering is a better way of distributing tokens and selling them to establish a resilient democracy. Our intention is not to be an ICO, which is purely profit driven. Our goal is to provide intrinsic value to the community, and hopefully receive some modest funding to continue our expansion. In the end we will turn over the majority of our Dubloonz back into the system to help the DPS become a self sustaining entity.
+- 10 DBZ - Fix ghostkat.org for mobile and firefox. It's an issue with web3.js
+- 1 DBZ - Seed media via webtorrent
 
-#eKo TREASURE MAP#
-
-#I: The Eternal Charity of GhostKat
-The first phase of building our democratic pirate file system is to get Dubloonz into the hands of capable pirates. For this reason, we are reaching out to anyone interested in free DBZ in return for posting and seeding popular material to our system. We want pirates looking for glory and potentially profit. The money raised via eKo will be put back into the community, infrastructure, with the lion’s share going to the pirates who seed new media into the system.
-
-One month from today, all eKo assets will be under the control of everyone with DBZ. For this reason, we need to distribute enough DBZ to make voting balanced and resilient. We want people with reputation and esteem from all communities to give us feedback and criticism. More importantly, we want people to become members of the DPS with us. 
-
-For the next week we do not expect any great sale of DBZ, but will be giving it away for free to anyone who collaborates with us in good will. Anyone who is able to post and host via WebTorrent will be substantially rewarded. After we have a base of posters and hosters, we will stop giving DBZ away, and then reward the most successful members of the community with 27,000 DBZ. This is the purpose of having many different tiers of trust, it allows the community to filter out bad actors by rewarding the good ones. 
-
-#II: The Eternal Happiness of GhostKat
-It is imperative that we are popular to ordinary people first. The biggest benefit of GhostKat is that it is remarkably easy to use, on top of being immortal, immutable, and unblockable. We want anyone bored on their pc to think, “why would I watch ads? When I could be on GhostKat?”. This is a once in a lifetime opportunity to find glory as a pirate unknown to the piracy community. We want to make this as widespread a method as possible, because it takes money away from corporations. 
-
-We are here to take from them, to give to everyone. We do not believe in paying for art. Everyone should rejoice in the same bullshit tv we have loved forever. We as a people, as an internet, can live in a cozy outer haven of absolute freedom. We want a paradise of media. Media is latin for middle, and we think the middle path is for everyone. The internet should be a public service, not an ad.
-
-The time between us establishing this system, and turning it over to the DAO, should be a rapid pace succession of releases; matched by a rapid increase in viewership. An utterly hilarious, and ruthless approach is warranted. We should publically flaunt the fact that no corporation can take us down, as this will aid in fundraising.
-
-For this reason we will stop giving away DBZ at the point where it gains significant popularity. From there, anyone interested in joining the community will have to buy into that community by purchasing Doubloonz from the eKo.
-
-#III: The Eternal Koin Offering of GhostKat
-At this time we will transfer DBZ ownership over to the Doubloonz Piracy Syndikate. The DPS will be agreed upon by the community as a standard DAO contract with community preferred quorum guidelines. After this, all funds from the eKo will go to DPS. On top of that, we will also give the vast majority of funds from the eKo over to the DPS as well. We deserve minor compensation at the discretion of the community, but the lion’s share of eKo funds will go to uploaders. From this point, the community can charge whatever they want for DBZ.
-
-That DAO will be able to 
-* manage all EKO assets.
-* ban users, freezing their assets, preventing them from posting or selling.
-* mint new tokens.
-* change the EKO sale price.
-* migrate to a larger palace array system.
-
-#0:The Lion’s Share
-B.L.A.H Chairmen Meow GhostKat III
-Plurally, royally introducing ourselves.
-
-We have a majority stake in the system meow, but will be giving it away en masse to individuals who post and host with honor and distinction. Without asking for any money, we will be transferring our equity until we are no longer a majority holder of DBZ.
-
-We are an ethereal being with no home in this reality, but we see your suffering, and suicidal consumerism. The tides are rising high enough to drown  yall, so we’d like to raise the stakes too!
-
-We are only here to get this system rolling. We will be putting the money earned from the EKO back into the community. Now, lets open the floor to critiques, purchases of DBZ, and people looking to help us broadkast some kontraband!
+Thank you so much for supporting us! We welcome all feedback and would especially welcome partners!
 
 ![alt text](https://webtorrent.io/img/WebTorrent.png "WebTorrent")
 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ETHEREUM-YOUTUBE-PROFILE-PIC.png/240px-ETHEREUM-YOUTUBE-PROFILE-PIC.png "Ethereum")
+
 ![alt text](http://website-thumbnails.informer.com/thumbnails/280x202/i/infura.io.png "INFURA")
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ETHEREUM-YOUTUBE-PROFILE-PIC.png/240px-ETHEREUM-YOUTUBE-PROFILE-PIC.png "Ethereum")
