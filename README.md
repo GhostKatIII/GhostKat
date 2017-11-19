@@ -29,7 +29,7 @@ With successful formation of the Dubloonz Piracy Syndikate (DPS), a "Distributed
 - Focus Fire: 3 DBZ - Post a magnet link to MrB seeding at high speed via WebTorrent.
 
 Thank you so much for supporting us! We welcome all feedback and would especially welcome partners!
-Contact: ghostkat2017@gmail.com
+- Contact: ghostkat2017@gmail.com
 
 ![alt text](https://webtorrent.io/img/WebTorrent.png "WebTorrent")
 
