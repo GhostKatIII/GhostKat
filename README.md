@@ -24,6 +24,7 @@ With successful formation of the Dubloonz Piracy Syndikate (DPS), a "Distributed
 
 **Here are the initial bounties:**
 
+- Cartographer: 27 DBZ - Using the site HTML, create a better interface, something lightweight and modular for easy expansion, including ledger-switching.
 - DJ KatMixMeow: 27 DBZ - Write functional mobile-first music streaming interface (with playlists and looping) for ghostkat.org.
 - Leaky boat: 10 DBZ - Fix ghostkat.org for mobile and firefox. It's an issue with web3.js
 - Focus Fire: 3 DBZ - Post a magnet link to MrB seeding at high speed via WebTorrent.
