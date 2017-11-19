@@ -1,6 +1,6 @@
 ![alt text](https://i.imgur.com/C5U5GSE.png "GKEKO")
 
-**GhostKat** is here to haunt government censors and copyright trolls. It has been disturbed from eternal rest by ever-encroaching shareholders and ill-informed politicians who threaten to lock down the world's most powerful resource for sharing knowledge and art, the world-wide-web. 
+**GhostKat** is here to haunt internet data and ad companies, government censors and copyright trolls. It has been disturbed from eternal rest by ever-encroaching shareholders and ill-informed politicians who threaten to lock down the world's most powerful resource for sharing knowledge and art, the world-wide-web. 
 
 To do this, it's re-animated a website that uses WebTorrent to call magnet links stored on a globally-distributed Ethereum Smart Contract. Since it exists on the blockchain rather than a traditional host server, the links are unowned and cannot be deleted or destroyed. Anyone with the contract ABI can read off the ledgers - *even behind China's "Great Firewall."* This contract also hosts the Dubloonz (DBZ) crypto-currency, which is used as a permission gate for different ledgers attached to the contract. These gates also ensure only certain people can post to certain ledgers based on how many tokens they own, a new feature for blockchain dApps ("decentralized applications"). 
 
