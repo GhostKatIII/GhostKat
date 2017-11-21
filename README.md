@@ -35,7 +35,7 @@ Our rudimentary HTML interface is being served at [GhostKat.org](https://www.gho
 The domain only serves HTML and plain JS. The libraries are loaded from github via CDN.
 
 # 3: The Eternal Koin Offering
-
+**GhostKat is Secure**
 ![alt text](https://webtorrent.io/img/WebTorrent.png "WebTorrent")
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ETHEREUM-YOUTUBE-PROFILE-PIC.png/240px-ETHEREUM-YOUTUBE-PROFILE-PIC.png "Ethereum")
