@@ -3,17 +3,27 @@
 # 0: Return To
 The internet is impossible to regulate by nature. It seems controlled through ad gateways and user tracking, but at any point users can circumvent corporations and even governments. They simply need to connect directly to one another.
 
+
 # 1: GhostKat’s Media Haven 
-## (is [WebTorrent](https://webtorrent.io/) + [Ethereum](https://ethereum.org/))
+## (is [WebTorrent](https://webtorrent.io/) + [Ethereum](https://ethereum.org/) Shipping)
   GhostKat is a straightforward method for streaming media 'peer2peer' between viewers, right in the browser, without special software, torrent websites, or even a server. **In fact, there is no server supporting GhostKat at all.**
+  
+  
   [GhostKat.org](https://www.ghostkat.org) serves a static html page with JavaScript that lets you find other people watching GhostKat. Anyone watching GhostKat is also broadcasting what they are watching to everyone else, also watching. It's a distributed, communistic, and globally available protocol for transferring media. GhostKat never hosts any file data, and never communicates with the viewer's device at all. It's like we hardly exist. **GhostKat is immortal, unblockable, can move through walls, and one hundred percent client-side.**
-  It is impossible to remove the file data broadcasted on GK; our website does nothing, it's a static html server. The code it contains runs in the users browser and calls a decentralized database stored on Ethereum. That database is a list of all the files people are sharing over GhostKat. The basic HTML page then becomes populated with the file names, and when you click on one, we use WebTorrent to connect you with everyone watching that file. Our all-in-one html source is all that's needed to run a local version of GK, or spawn endless copies across the world wide web. The system is in no way dependant on our .org. We highly encourage improving and kustomizing our basic interface. We have posted one example video to a public tier in our database, and you can watch it on GhostKat right Meow!
+
+
+   It is impossible to remove the file data broadcasted on GK; our website does nothing, it's a static html server. The code it contains runs in the users browser and calls a decentralized database stored on Ethereum. That database is a list of all the files people are sharing over GhostKat. The basic HTML page then becomes populated with the file names, and when you click on one, we use WebTorrent to connect you with everyone watching that file. 
+   
+   
+   Our all-in-one html source is all that's needed to run a local version of GK, or spawn endless copies across the world wide web. The system is in no way dependant on our .org. We highly encourage improving and kustomizing our basic interface. We have posted one example video to a public tier in our database, and you can watch it on GhostKat right Meow!
   
 
 # 2: GhostKat Groove
   It is exteremely easy to replicate what we've done. If you want to, just follow these steps.
 We use [Ethereum](https://ethereum.org/) to store the file references  
-*Our Kontracts are written in Solidity (C for Ethereum), and are secured by an Ethereum ERC20 Standard Token we call "Dubloonz". Ownership of Dubloonz gives users access to different levels of trust within the database (they're not spent). This Token Access system is cryptographically secure to the highest degree simply by using the Ethereum ERC20 Token Standard.*. 
+
+
+*Our Kontracts are written in Solidity (C for Ethereum), and are secured by an Ethereum ERC20 Standard Token we call "Dubloonz". Ownership of Dubloonz gives users access to different levels of trust within the database. This Token Access system is cryptographically secure to the highest degree simply by using the Ethereum ERC20 Token Standard.*. 
 
 ```C#
 string[] public katKafe;
@@ -42,8 +52,10 @@ The domain only serves HTML and plain JS. The libraries are loaded from github v
 1. First, add our [Our Kontract Address and ABI](https://github.com/GhostKatIII/GhostKat/blob/master/Contract_ABI) to your wallet
 + ![alt text](https://i.imgur.com/t8j4XyD.png "Adding GK")
 
+
 2. From there you'll have access to buying DBZ at the price of *1 Ether for 1 DBZ. The ERC20 standard buy() function takes a msg.value of ether as an argument, and returnes the corresponding amount in dbz.*
 + ![alt text](https://i.imgur.com/bQOHPul.png "Buying Dubloonz")
+
 
 3. After Buying Dubloonz you can post magnet links to the lower Plane!
 + ![alt text](https://i.imgur.com/ntOlJEI.png "Posting to lower PLane")
@@ -54,6 +66,8 @@ function Ridin (string postin) public  {
        
 }
 ```
+
+
 # 3: The Eternal Koin Offering (EKO)
 There is one last step in the GhostKat Groove, and that is trust. We have to filter out the spam, the ads, and the bullshit posting that comes with the world wide web. To create our media haven with a healthy degree of trust, we will be giving away DBZ in phases to those who post popular content with honor and distinction. In the end, we will transfer ownership of the currency to the community, by running a transfer owner function on our contract.
 ```C#
@@ -75,8 +89,12 @@ contract owned {
 }
 ```
 That transfer will be to another contract; a virtual congress we call the **Dubloonz Piracy SyndiKat(DPS)**
+
+
 That congress will be chosen by the Kommunity, using Dubloonz as voting shares.
 [The Kommunity Kontract will use Ethereum standards set by the inventors themselves.](https://www.ethereum.org/dao#the-shareholder-association).
+
+
 **The Dubloonz Piracy SyndiKat will be able to**
 + Withdraw funds raised through the purchase of DBZ
 ```C#
