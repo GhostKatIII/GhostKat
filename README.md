@@ -5,7 +5,7 @@ The internet is impossible to regulate by nature. It seems controlled through ad
 
 # 1: GhostKat’s Media Haven
   GhostKat is a straightforward method for streaming media 'peer2peer' between viewers right in the browser, and without special software, torrent database websites, or even a server.**In fact, there is no server supporting GhostKat at all.** 
-  [GhostKat.org](https://www.ghostkat.org) serves a static html page containing code that opens a portal between the user and their media sharing peers. GhostKat never hosts any file data, and never communicates with the viewer's device at all. It's like GhostKat hardly exists. **GhostKat is one hundred percent client side is immortal, unblockable, and can move through walls.**
+  [GhostKat.org](https://www.ghostkat.org) serves a static html page containing code that opens a portal between the user and their media sharing peers. GhostKat never hosts any file data, and never communicates with the viewer's device at all. It's like GhostKat hardly exists. **GhostKat is immortal, unblockable, can move through walls, and is one hundred percent client-side.**
   Its impossible to remove the file data broadcasted through its network by shutting down our static html server. Our all-in-one html source is all that's needed to run a local version of GK, or spawn endless copies across the world wide web. We highly encourage improving and customizing our basic interface.
 
 # 2: GhostKat Style
