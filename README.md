@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/C5U5GSE.png "GKEKO")
+![alt text](https://i.imgur.com/KqVTrI0.png "GKEKO")
 
 # 0: Return To
 The internet is impossible to regulate by nature. It seems controlled through ad gateways and user tracking, but at any point users can circumvent corporations and even governments. They simply need to connect directly to one another.
