@@ -46,6 +46,8 @@ The domain only serves HTML and plain JS. The libraries are loaded from github v
 3. After Buying Dubloonz you can post magnet links to the lower Plane!
 + ![alt text](https://i.imgur.com/ntOlJEI.png "Posting to lower PLane")
 
+For a more in-depth tutorial featuring [Parity wallet](https://parity.io/), go [here](https://dontpanicsell.com/2017/11/18/dbz/).
+
 # 3: The Eternal Koin Offering
 There is one last step in the GhostKat Groove, and that is trust. We have to filter out the spam, the ads, and the bullshit posting that comes with the world wide web. To create our media haven with a healthy degree of trust, we will be giving away DBZ in phases to those who post popular content with honor and distinction. In the end, we will transfer ownership of the currency to the community, by running a transfer owner function on our contract.
 ```C#
@@ -107,7 +109,7 @@ Fundraising is important, but secondary to establishing a trusted network of pos
 # PHASE III: Focus Fire
 During this phase we will return our remaining DBZ balance of 1001 to the contract and the community. We will put all funds raised towards establishing an expanded GK network that handles music, TV, and Movies. By divesting, we will have no legal or literal connection to DBZ, but this is better so that the system is completely distributed through the community. Media must be liberated from corporations or they will continue to hold our shared culture behind an ad gateway. Capitalism is locking up all aspects of our lives, including how we communicate using the internet. Net Neutrality is being repealed as I type, and it is hard to imagine things getting better. It is time for the internet community as a whole to come together against the spectacle of waste and bullshit that is the internet today. We can establish our own, more efficient, absolutely liberated **MEDIA HAVEN**.
 
-# PHASE 0: Outter Haven
+# PHASE 0: Outer Haven
  Corporations add no value to the internet, they actually slow it down by placing constant tracking and ad gateways in between your search results, paragraphs of blogs, and in every corner of social media. It would be faster, and more secure, to rebuild the OG internet. The internet used to be a network of peers, not a network of datacenters hoarding content.
 
 ## All we need to do is connect to one another
