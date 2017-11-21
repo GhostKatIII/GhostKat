@@ -36,12 +36,12 @@ The domain only serves HTML and plain JS. The libraries are loaded from github v
 
 **Our website is showing the first 33 posts of the lower Plane, which requires 1 DBZ to post on. If you would like to buy DBZ or post to GhostKat.org, add our kontract to your wallet**
 [Our Kontract Address and ABI](https://github.com/GhostKatIII/GhostKat/blob/master/Contract_ABI)
-![alt text](https://imgur.com/a/p3JLM "Adding GK")
+![alt text](https://imgur.com/a/p3JLM.png "Adding GK")
 From there you'll have access to buying DBZ at the price of *1 Ether for 1 DBZ*
 The buy function will send you DBZ based on how much ethereum you send it.
-![alt text](https://imgur.com/a/dUUTz "Buying Dubloonz")
+![alt text](https://imgur.com/a/dUUTz.png "Buying Dubloonz")
 After Buying Dubloonz you can post magnet links to the lower Plane!
-![alt text](https://imgur.com/a/cE5lj "Posting to lower PLane")
+![alt text](https://imgur.com/a/cE5lj.png "Posting to lower PLane")
 # 3: The Eternal Koin Offering
 **EKO-Friendly**
 There is one last step in the GhostKat Groove, and that is trust. We have to filter out the spam, the ads, and the bullshit posting that comes with the world wide web. To create our media haven with a healthy degree of trust, we will be giving away DBZ in phases to those who post popular content with honor and distinction. In the end, we will transfer ownership of the currency to the community, by running a transfer owner function on our contract.
@@ -67,40 +67,41 @@ That transfer will be to another contract which will be running a virtual congre
 That congress will be chosen by the Kommunity, using Dubloonz as voting shares.
 [The Kommunity Kontract will use Ethereum standards set by the inventors themselves.](https://www.ethereum.org/dao#the-shareholder-association).
 **The Dubloonz Piracy SyndiKat will be able to**
-+**Withdraw funds raised through the purchase of DBZ**
++ **Withdraw funds raised through the purchase of DBZ**
 ```C#
 function eKo(uint256 amount) onlyOwner public {
     require(this.balance >= amount);
     msg.sender.transfer(amount);
 }
 ```
-+**Ban users from posting, and freeze DBZ assets**
-+**Mint DBZ**
-+**Set the public buy and sell price of DBZ**
++ Ban users from posting, and freeze DBZ assets
++ Mint DBZ
++ Set the public buy and sell price of DBZ
 **Our roadmap is towards a completely decentralized autonomous syndikated peer 2 peer database**
 
 Our GK Kontract has seven arrays.
-+Zero Palace - onlyOwner - zeroPost
-+Legend Palace - 99 DBZ - legendPost
-+Kat Kafe - 27 DBZ - katPost
-+Middle Palace - 5 DBZ - middlePost
-+Open Palace - 3 DBZ - openPost
-+Lower Plane -1 DBZ - lowerPost
-+Mr. Bones - 0 DBZ - ridin
++ Zero Palace - onlyOwner - zeroPost
++ Legend Palace - 99 DBZ - legendPost
++ Kat Kafe - 27 DBZ - katPost
++ Middle Palace - 5 DBZ - middlePost
++ Open Palace - 3 DBZ - openPost
++ Lower Plane -1 DBZ - lowerPost
++ Mr. Bones - 0 DBZ - ridin
 **The numbers represent how much DBZ you must have in your cryptographic wallet to prove you are trusted enough to post on the array. Anyone can post to Mr.Bones, and we have an alternate interface targeting Mr.B on our Github. We do not wish to host this interface oursevles due to how unregulated it is.**
 
-#PHASE I: The Eternal Charity of GhostKat
+# PHASE I: The Eternal Charity of GhostKat
 There are 3999 DBZ in existance. 999 are loaded into the contract itself, and can be purchased via the buy function. The rest is owned by ourselves, Chairmen Meow GhostKat III, the Super Lucky Kat, Royally, Plurally, Introducing. 
 
-##We will be giving away 1,999 DBZ to users of GhostKat who add value to the system.
+## We will be giving away 1,999 DBZ to users of GhostKat who add value to the system.
 Once 1999 DBZ are out in the community, and the community is thriving, we will transfer ownership to the **DPS**. At the beginning, we are giving away only 1 DBZ at a time. The people we are giving the DBZ to will have to prove they are capable of seeding media via webtorrent at reasonable speeds. We will give 1 DBZ to anyone who sends us a magnet link they are seeding out at or above 500 mb/s. Send us the magnet link via email at GhostKat2017@gmail.com, message us on Github, or just post that link to Mr.Bones.
 
-#PHASE II: Open Fire
+# PHASE II: Open Fire
 After phase I, we will give popular and effective users five Dubloonz, elevating them to middle post. ##From there we will stop giving DBZ to new people, and anyone wishing to enter the community will need to buy DBZ##
 Fundraising is important, but secondary to establishing a trusted network of posters and hosters. After the community gets active and on its feet, we will give very large shares to the early adopters who are the most trusted. We will continue giving away DBZ to the community until there are many Kats (27 DBZ), and a few Legend Kittens (99 DBZ). At this point we will transfer ownership over to the Dubloonz Piracy SyndiKat. **If you don't trust us, all of our code is free to copy. The world needs piracy.** If anyone with DBZ gets their wallet stolen, there is a freeze account function in the contract. The DPS, or us for the time being, can freeze assets and block posting from a specific wallet.
 
-#PHASE III: Focus Fire
-During this phase we will return our remaining DBZ balance of 1001 to the contract and the community. We hope to put all funds raised towards establishing an expanded GK network that handles music, TV, and Movies. By divesting, we will have no legal or literal connection to DBZ, but this is better so that the system is completely distributed through the community. The world is changing very fast, and there is no justification for a fascist internet. The fascist internet is the one used to sell you useless horseshit in return for the media culture you grew up to love. These are the same corporations wasting money producing useless products and shipping them across continents while the world burns. Amazon, Google, Hulu, and Facebook have no interest in adding value to society. It is imperative that the internet be a free resource for all. Our goal is not to be a tech startup, or an ICO; we are a ghost and that is all that matters.
+# PHASE III: Focus Fire
+During this phase we will return our remaining DBZ balance of 1001 to the contract and the community. We will put all funds raised towards establishing an expanded GK network that handles music, TV, and Movies. By divesting, we will have no legal or literal connection to DBZ, but this is better so that the system is completely distributed through the community. The world is changing very fast, and there is no justification for a fascist internet. The internet today is controlled by moronoic automated ad targeting software helbent on wasting all of our money and resources on shit we don't need. Our most advanced communications technology needs to be used for more than selling shit. The greatest human catastrophe in thousands of years is right around the corner.
+
 
 
 ![alt text](https://webtorrent.io/img/WebTorrent.png "WebTorrent")
