@@ -13,7 +13,7 @@ The internet is impossible to regulate by nature. It seems controlled through ad
 # 2: GhostKat Groove
   It is exteremely easy to replicate what we've done. If you want to, just follow these steps.
 We use [Ethereum](https://ethereum.org/) to store the file references  
-*Our Kontracts are written in Solidity (C for Ethereum), and are secured by an Ethereum ERC20 Standard Token we call "Dubloonz". Ownership of Dubloonz gives users access to different levels of trust within the database. This Token Access system is cryptographically secure to the highest degree simply by using the Ethereum ERC20 Token Standard.*. 
+*Our Kontracts are written in Solidity (C for Ethereum), and are secured by an Ethereum ERC20 Standard Token we call "Dubloonz". Ownership of Dubloonz gives users access to different levels of trust within the database (they're not spent). This Token Access system is cryptographically secure to the highest degree simply by using the Ethereum ERC20 Token Standard.*. 
 
 ```C#
 string[] public katKafe;
