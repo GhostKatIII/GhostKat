@@ -42,7 +42,7 @@ var Gkon = web3.eth.contract([insertABI])
 var Kontract = Gkon.at("0xF3fEAA67700E31955f3aC95a2d976dc42AAc332A");
 ```
 
-Finally, we use [WebTorrent](https://webtorrent.io/) as our client-side, in-browser, media streaming client. It is the amazing piece of software that is the backbone of GhostKat. It is what allows users to stream media to each other, rather than from a server.
+Finally, we use [WebTorrent](https://webtorrent.io/) as our client-side, in-browser, media streaming client. It is the backbone of GhostKat. It allows users to stream media to each other, rather than from a server.
 Our rudimentary HTML interface is being served at [GhostKat.org](https://www.ghostkat.org)
 The domain only serves HTML and plain JS. The libraries are loaded from github via CDN. GhostKat.org has never handles any of the file data in any way.
 
@@ -140,7 +140,7 @@ During this phase we will return our remaining DBZ balance of 1001 to the contra
 ## All we need to do is connect to one another
 It is time to establish a new protocol that allows for the free and easy transfer of information between peers. We humbly put forth GhostKat as a method, a style, and a protocol if you'd like. It is easy to repurpose this method to act like the greater internet, with websites and social media all being hosted peer 2 peer.
 
-**If you are out for glory, booty, and all the tv in the world, hop on this bandwagon and let's get rolling.**
+**If you are out for glory, booty, and all the tv in the world, SET SAIL FOR THE HIGH SEAS MEOW YARRG.**
 
 **We will give 1 DBZ to anyone who sends us a magnet link they are seeding out at or above 500 mb/s.** Send us the magnet link via email at GhostKat2017@gmail.com, message us on Github, or just post that link to Mr.Bones. Be sure to include your ethereum address, and seed the magnet link via WebTorrent or WebTorrent compatible client.
 
