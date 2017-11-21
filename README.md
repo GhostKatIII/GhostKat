@@ -38,13 +38,13 @@ The domain only serves HTML and plain JS. The libraries are loaded from github v
 ## Here is a tutorial for buying DBZ, and posting magnet links to our database!
 
 1. First, add our [Our Kontract Address and ABI](https://github.com/GhostKatIII/GhostKat/blob/master/Contract_ABI) to your wallet
-![alt text](https://i.imgur.com/t8j4XyD.png "Adding GK")
++ ![alt text](https://i.imgur.com/t8j4XyD.png "Adding GK")
 
-2. From there you'll have access to buying DBZ at the price of *1 Ether for 1 DBZ*. The buy function will send you DBZ based on how much ethereum you send it.
-![alt text](https://i.imgur.com/bQOHPul.png "Buying Dubloonz")
+2. From there you'll have access to buying DBZ at the price of *1 Ether for 1 DBZ. Our buy function takes a value of ether as an argument, and returnes the corresponding amount in dbz.*
++ ![alt text](https://i.imgur.com/bQOHPul.png "Buying Dubloonz")
 
 3. After Buying Dubloonz you can post magnet links to the lower Plane!
-![alt text](https://i.imgur.com/ntOlJEI.png "Posting to lower PLane")
++ ![alt text](https://i.imgur.com/ntOlJEI.png "Posting to lower PLane")
 
 # 3: The Eternal Koin Offering
 There is one last step in the GhostKat Groove, and that is trust. We have to filter out the spam, the ads, and the bullshit posting that comes with the world wide web. To create our media haven with a healthy degree of trust, we will be giving away DBZ in phases to those who post popular content with honor and distinction. In the end, we will transfer ownership of the currency to the community, by running a transfer owner function on our contract.
