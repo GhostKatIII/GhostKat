@@ -128,17 +128,26 @@ There are 3999 DBZ in existance. 999 are loaded into the contract itself, and ca
 Once 1999 DBZ are out in the community, and the community is thriving, we will transfer ownership to the **DPS**. At the beginning, we are giving away only 1 DBZ at a time. **We will give 1 DBZ to anyone who sends us a magnet link they are seeding out at or above 500 mb/s.** Send us the magnet link via email at GhostKat2017@gmail.com, message us on Github, or just post that link to Mr.Bones. Be sure to include your ethereum address, and seed the magnet link via WebTorrent or WebTorrent compatible client.
 
 # PHASE II: Open Fire
-After phase I, we will give popular and effective users five Dubloonz, elevating them to middle post.From there we will stop giving DBZ to new people, and anyone wishing to enter the community will need to buy DBZ.
-Fundraising is important, but secondary to establishing a trusted network of posters and hosters. After the community gets active and on its feet, we will give very large shares to the early adopters who are the most trusted. *We will continue giving away DBZ to the community until there are many Kats (27 DBZ), and a few Legend Kittens (99 DBZ).* At this point we will transfer ownership over to the Dubloonz Piracy SyndiKat. **If you don't trust us, all of our code is free to copy. What we do with fundraising money is completely transparent, and the lions share will be left for the DPS to distribute. The world needs piracy meow.** If anyone with DBZ gets their wallet stolen, there is a freeze account function in the contract. The DPS, or us for the time being, can freeze assets and block posting from a specific wallet.
+After phase I, we will give popular and effective users five Dubloonz, elevating them to middle post.From there we will stop giving DBZ to new people, and *anyone wishing to enter the community will need to buy DBZ.*
+
+
+Fundraising is important, but secondary to establishing a trusted network of posters and hosters. After the community gets active and on its feet, we will give very large shares to the early adopters who are the most trusted. *We will continue giving away DBZ to the community until there are many Kats (27 DBZ), and a few Legend Kittens (99 DBZ).* At this point we will transfer ownership over to the Dubloonz Piracy SyndiKat. **If you don't trust us, all of our code is free to copy. What we do with fundraising money is completely transparent, and the lions share will be left for the DPS to distribute. The world needs piracy meow.** 
 
 # PHASE III: Focus Fire
-During this phase we will return our remaining DBZ balance of 1001 to the contract and the community. We will put all funds raised towards establishing an expanded GK network that handles music, TV, and Movies. By divesting, we will have no legal or literal connection to DBZ, but this is better so that the system is completely distributed through the community. We hope to again reward members of the community in all aspects. Those who create the fastest, most functional interfaces will also be rewarded with DBZ and Ether raised via EKO. Media must be liberated from corporations or they will continue to hold our shared culture behind an ad gateway. Capitalism is locking up all aspects of our lives, including how we communicate using the internet. Net Neutrality is being repealed as I type, and it is hard to imagine things getting better. It is time for the internet community as a whole to come together against the spectacle of waste and bullshit that is the internet today. We can establish our own, more efficient, absolutely liberated **MEDIA HAVEN**.
+During this phase we will return our remaining DBZ balance of 1001 to the contract and the community. We will put all funds raised towards establishing an expanded GK network that handles music, TV, and Movies. By divesting, we will have no legal or literal connection to DBZ, but this is better so that the system is completely distributed through the community. We hope to again reward members of the community in all aspects, in DBZ, and by showing our good faith by also giving over most DBZ raised before transfer.
 
-# PHASE 0: Outter Haven
- Corporations add no value to the internet, they actually slow it down by placing constant tracking and ad gateways in between your search results, paragraphs of blogs, and in every corner of social media. It would be faster, and more secure, to rebuild the OG internet. The internet used to be a network of peers, not a network of datacenters hoarding content. *We sincerely miss the internet we once knew, but now we're back.*
 
 ## All we need to do is connect to one another
 It is time to establish a new protocol that allows for the free and easy transfer of information between peers. We humbly put forth GhostKat as a method, a style, and a protocol if you'd like. It is easy to repurpose this method to act like the greater internet, with websites and social media all being hosted peer 2 peer.
+
+**If you are out for glory, booty, and all the tv in the world, hop on this bandwagon and let's get rolling.**
+
+**We will give 1 DBZ to anyone who sends us a magnet link they are seeding out at or above 500 mb/s.** Send us the magnet link via email at GhostKat2017@gmail.com, message us on Github, or just post that link to Mr.Bones. Be sure to include your ethereum address, and seed the magnet link via WebTorrent or WebTorrent compatible client.
+
+**We will give 5 DBZ to the first person to get our interface running on mobile browsers!**
+We have an issue open on our github, so you can comment there, or send us your solution directly at GhostKat2017@gmail.com. Web3 js appears to crash easily.
+
+
 
 ![alt text](https://webtorrent.io/img/WebTorrent.png "WebTorrent")
 
