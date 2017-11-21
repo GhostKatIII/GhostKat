@@ -34,16 +34,19 @@ Finally, we use [WebTorrent](https://webtorrent.io/) as our client-side, in-brow
 Our rudimentary HTML interface is being served at [GhostKat.org](https://www.ghostkat.org)
 The domain only serves HTML and plain JS. The libraries are loaded from github via CDN.
 
-**Our website is showing the first 33 posts of the lower Plane, which requires 1 DBZ to post on. If you would like to buy DBZ or post to GhostKat.org, add our kontract to your wallet**
-[Our Kontract Address and ABI](https://github.com/GhostKatIII/GhostKat/blob/master/Contract_ABI)
+**Our website is showing the first 33 posts of the lower Plane, which requires 1 DBZ to post on.**
+## Here is a tutorial for buying DBZ, and posting magnet links to our database!
+
+1. First, add our [Our Kontract Address and ABI](https://github.com/GhostKatIII/GhostKat/blob/master/Contract_ABI) to your wallet
 ![alt text](https://i.imgur.com/t8j4XyD.png "Adding GK")
-From there you'll have access to buying DBZ at the price of *1 Ether for 1 DBZ*
-The buy function will send you DBZ based on how much ethereum you send it.
+
+2. From there you'll have access to buying DBZ at the price of *1 Ether for 1 DBZ*. The buy function will send you DBZ based on how much ethereum you send it.
 ![alt text](https://i.imgur.com/bQOHPul.png "Buying Dubloonz")
-After Buying Dubloonz you can post magnet links to the lower Plane!
+
+3. After Buying Dubloonz you can post magnet links to the lower Plane!
 ![alt text](https://i.imgur.com/ntOlJEI.png "Posting to lower PLane")
+
 # 3: The Eternal Koin Offering
-**EKO-Friendly**
 There is one last step in the GhostKat Groove, and that is trust. We have to filter out the spam, the ads, and the bullshit posting that comes with the world wide web. To create our media haven with a healthy degree of trust, we will be giving away DBZ in phases to those who post popular content with honor and distinction. In the end, we will transfer ownership of the currency to the community, by running a transfer owner function on our contract.
 ```C#
 contract owned {
