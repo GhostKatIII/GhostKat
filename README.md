@@ -1,7 +1,7 @@
 ![alt text](https://i.imgur.com/KqVTrI0.png "GKEKO")
 
 # 0: Return To
-The internet is impossible to regulate by nature. It seems controlled through ad gateways and user tracking, but at any point users can circumvent corporations and even governments. They simply need to connect directly to one another.
+The internet is impossible to regulate by nature. It seems controlled through ad gateways and user tracking, but at any point users can circumvent corporations and even governments. They simply need to connect directly to one another. This is what we are addressing.
 
 # 1: GhostKat’s Media Haven
   GhostKat is a straightforward method for streaming media 'peer2peer' between viewers, right in the browser, without special software, torrent websites, or even a server. **In fact, there is no server supporting GhostKat at all.**
@@ -9,7 +9,7 @@ The internet is impossible to regulate by nature. It seems controlled through ad
   It is impossible to remove the file data broadcasted on GK; our website does nothing, it's static html server. Our all-in-one html source is all that's needed to run a local version of GK, or spawn endless copies across the world wide web. We highly encourage improving and kustomizing our basic interface.
 
 # 2: GhostKat Groove
-  It is exteremely easy to replicate what we've done. If you want to, just follow these steps.
+  It is extremely easy to replicate what we've done. If you want to, just follow these steps.
 We use [Ethereum](https://ethereum.org/) to store the file data (magnet links) needed for users to find others viewing that file. 
 **Our Kontracts are written in Solidity (C for Ethereum), and are secured by a virtual currency we call "Dubloonz"**. 
 
