@@ -46,7 +46,7 @@ Finally, we use [WebTorrent](https://webtorrent.io/) as our client-side, in-brow
 Our rudimentary HTML interface is being served at [GhostKat.org](https://www.ghostkat.org)
 The domain only serves HTML and plain JS. The libraries are loaded from github via CDN. GhostKat.org has never handles any of the file data in any way.
 
-**Our website is showing the first 33 posts of the lower Plane, which requires 1 DBZ to post on.**
+**Our website is showing the first 33 posts of the lower Plane, which requires ownership of 1 DBZ to post on.**
 ## Here is a tutorial for buying DBZ, and posting magnet links to our database!
 
 1. First, add our [Our Kontract Address and ABI](https://github.com/GhostKatIII/GhostKat/blob/master/Contract_ABI) to your wallet
@@ -140,11 +140,11 @@ During this phase we will return our remaining DBZ balance of 1001 to the contra
 ## All we need to do is connect to one another
 It is time to establish a new protocol that allows for the free and easy transfer of information between peers. We humbly put forth GhostKat as a method, a style, and a protocol if you'd like. It is easy to repurpose this method to act like the greater internet, with websites and social media all being hosted peer 2 peer.
 
-**If you are out for glory, booty, and all the tv in the world, SET SAIL FOR THE HIGH SEAS MEOW YARRG.**
+**If you are out for glory, booty, join the Dubloonz Piracy SyndiKat for free by contributing!**
 
-**We will give 1 DBZ to anyone who sends us a magnet link they are seeding out at or above 500 mb/s.** Send us the magnet link via email at GhostKat2017@gmail.com, message us on Github, or just post that link to Mr.Bones. Be sure to include your ethereum address, and seed the magnet link via WebTorrent or WebTorrent compatible client.
+**1 DBZ to anyone who sends us a magnet link they are seeding out at or above 500 mb/s.** Send us the magnet link via email at GhostKat2017@gmail.com, message us on Github, or just post that link to Mr.Bones. Be sure to include your ethereum address, and seed the magnet link via WebTorrent or WebTorrent compatible client.
 
-**We will give 5 DBZ to the first person to get our interface running on mobile browsers!**
+**5 DBZ to the first person to get our interface running on mobile browsers!**
 We have an issue open on our github, so you can comment there, or send us your solution directly at GhostKat2017@gmail.com. Web3 js appears to crash easily.
 
 
