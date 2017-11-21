@@ -144,7 +144,7 @@ It is time to establish a new protocol that allows for the free and easy transfe
 
 **1 DBZ to anyone who sends us a magnet link they are seeding out at or above 500 mb/s.** Send us the magnet link via email at GhostKat2017@gmail.com, message us on Github, or just post that link to Mr.Bones. Be sure to include your ethereum address, and seed the magnet link via WebTorrent or WebTorrent compatible client.
 
-**5 DBZ to the first person to get our interface running on mobile browsers!**
+**5 DBZ to the first person to get our interface running on firefox and mobile browsers!**
 We have an issue open on our github, so you can comment there, or send us your solution directly at GhostKat2017@gmail.com. Web3 js appears to crash easily.
 
 
