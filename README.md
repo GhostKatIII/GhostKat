@@ -36,12 +36,12 @@ The domain only serves HTML and plain JS. The libraries are loaded from github v
 
 **Our website is showing the first 33 posts of the lower Plane, which requires 1 DBZ to post on. If you would like to buy DBZ or post to GhostKat.org, add our kontract to your wallet**
 [Our Kontract Address and ABI](https://github.com/GhostKatIII/GhostKat/blob/master/Contract_ABI)
-![alt text](https://imgur.com/a/p3JLM.png "Adding GK")
+![alt text](https://i.imgur.com/t8j4XyD.png "Adding GK")
 From there you'll have access to buying DBZ at the price of *1 Ether for 1 DBZ*
 The buy function will send you DBZ based on how much ethereum you send it.
-![alt text](https://imgur.com/a/dUUTz.png "Buying Dubloonz")
+![alt text](https://i.imgur.com/bQOHPul.png "Buying Dubloonz")
 After Buying Dubloonz you can post magnet links to the lower Plane!
-![alt text](https://imgur.com/a/cE5lj.png "Posting to lower PLane")
+![alt text](https://i.imgur.com/ntOlJEI.png "Posting to lower PLane")
 # 3: The Eternal Koin Offering
 **EKO-Friendly**
 There is one last step in the GhostKat Groove, and that is trust. We have to filter out the spam, the ads, and the bullshit posting that comes with the world wide web. To create our media haven with a healthy degree of trust, we will be giving away DBZ in phases to those who post popular content with honor and distinction. In the end, we will transfer ownership of the currency to the community, by running a transfer owner function on our contract.
@@ -67,7 +67,7 @@ That transfer will be to another contract which will be running a virtual congre
 That congress will be chosen by the Kommunity, using Dubloonz as voting shares.
 [The Kommunity Kontract will use Ethereum standards set by the inventors themselves.](https://www.ethereum.org/dao#the-shareholder-association).
 **The Dubloonz Piracy SyndiKat will be able to**
-+ **Withdraw funds raised through the purchase of DBZ**
++ Withdraw funds raised through the purchase of DBZ
 ```C#
 function eKo(uint256 amount) onlyOwner public {
     require(this.balance >= amount);
@@ -77,6 +77,7 @@ function eKo(uint256 amount) onlyOwner public {
 + Ban users from posting, and freeze DBZ assets
 + Mint DBZ
 + Set the public buy and sell price of DBZ
+
 **Our roadmap is towards a completely decentralized autonomous syndikated peer 2 peer database**
 
 Our GK Kontract has seven arrays.
@@ -87,7 +88,8 @@ Our GK Kontract has seven arrays.
 + Open Palace - 3 DBZ - openPost
 + Lower Plane -1 DBZ - lowerPost
 + Mr. Bones - 0 DBZ - ridin
-**The numbers represent how much DBZ you must have in your cryptographic wallet to prove you are trusted enough to post on the array. Anyone can post to Mr.Bones, and we have an alternate interface targeting Mr.B on our Github. We do not wish to host this interface oursevles due to how unregulated it is.**
+
+*The numbers represent how much DBZ you must have in your cryptographic wallet to prove you are trusted enough to post on the array. Anyone can post to Mr.Bones, and we have an alternate interface targeting Mr.B on our Github. We do not wish to host this interface oursevles due to how unregulated it is.*
 
 # PHASE I: The Eternal Charity of GhostKat
 There are 3999 DBZ in existance. 999 are loaded into the contract itself, and can be purchased via the buy function. The rest is owned by ourselves, Chairmen Meow GhostKat III, the Super Lucky Kat, Royally, Plurally, Introducing. 
@@ -100,9 +102,13 @@ After phase I, we will give popular and effective users five Dubloonz, elevating
 Fundraising is important, but secondary to establishing a trusted network of posters and hosters. After the community gets active and on its feet, we will give very large shares to the early adopters who are the most trusted. We will continue giving away DBZ to the community until there are many Kats (27 DBZ), and a few Legend Kittens (99 DBZ). At this point we will transfer ownership over to the Dubloonz Piracy SyndiKat. **If you don't trust us, all of our code is free to copy. The world needs piracy.** If anyone with DBZ gets their wallet stolen, there is a freeze account function in the contract. The DPS, or us for the time being, can freeze assets and block posting from a specific wallet.
 
 # PHASE III: Focus Fire
-During this phase we will return our remaining DBZ balance of 1001 to the contract and the community. We will put all funds raised towards establishing an expanded GK network that handles music, TV, and Movies. By divesting, we will have no legal or literal connection to DBZ, but this is better so that the system is completely distributed through the community. The world is changing very fast, and there is no justification for a fascist internet. The internet today is controlled by moronoic automated ad targeting software helbent on wasting all of our money and resources on shit we don't need. Our most advanced communications technology needs to be used for more than selling shit. The greatest human catastrophe in thousands of years is right around the corner.
+During this phase we will return our remaining DBZ balance of 1001 to the contract and the community. We will put all funds raised towards establishing an expanded GK network that handles music, TV, and Movies. By divesting, we will have no legal or literal connection to DBZ, but this is better so that the system is completely distributed through the community. Media must be liberated from corporations or they will continue to hold our shared culture behind an ad gateway. Capitalism is locking up all aspects of our lives, including how we communicate using the internet. Net Neutrality is being repealed as I type, and it is hard to imagine things getting better. It is time for the internet community as a whole to come together against the spectacle of waste and bullshit that is the internet today. We can establish our own, more efficient, absolutely liberated **MEDIA HAVEN**.
 
+# PHASE 0: Outter Haven
+ Corporations add no value to the internet, they actually slow it down by placing constant tracking and ad gateways in between your search results, paragraphs of blogs, and in every corner of social media. It would be faster, and more secure, to rebuild the OG internet. The internet used to be a network of peers, not a network of datacenters hoarding content.
 
+## All we need to do is connect to one another
+It is time to establish a new protocol that allows for the free transfer of information between peers. We humbly put forth GhostKat as a method, a style, and a protocol if you'd like. It is easy to repurpose this method to act like the greater internet, with websites and social media all being hosted peer 2 peer. Each user could have their own magnet array, and have a profile magnet link containing photos and information wanted to be public. Our development has no end, and no government or corporation can stop our endless expansion. 
 
 ![alt text](https://webtorrent.io/img/WebTorrent.png "WebTorrent")
 
