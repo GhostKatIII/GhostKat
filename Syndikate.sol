@@ -23,7 +23,7 @@ contract TokenERC20 {
     // Public variables of the token
     string public name;
     string public symbol;
-    uint8 public decimals = 0;
+    uint8 public decimals = 18;
     // 18 decimals is the strongly suggested default, avoid changing it
     uint256 public totalSupply;
 
@@ -250,8 +250,10 @@ string[] public MrB;
         msg.sender.transfer(amount * sellPrice);          // sends ether to the seller. It's important to do this last to avoid recursion attacks
     }
 
-
-
+function eKo(uint256 amount) onlyOwner public {
+    require(this.balance >= amount);
+    msg.sender.transfer(amount);
+}
 
 function zPost(string postin) onlyOwner public  {
        zero.push(postin); 
@@ -260,21 +262,21 @@ function zPost(string postin) onlyOwner public  {
 
 function legendPost (string postin) public  {
         require(!frozenAccount[msg.sender]);
-        require(balanceOf[msg.sender] >= 999999);
+        require(balanceOf[msg.sender] >= 99);
         legendPalace.push(postin);
        
 }
 
 function katPost (string postin) public {
     require(!frozenAccount[msg.sender]);
-    require(balanceOf[msg.sender] >= 27000);
+    require(balanceOf[msg.sender] >= 27);
     katKafe.push(postin);
    
 }
 
 function middlePost (string postin) public  {
         require(!frozenAccount[msg.sender]);
-        require(balanceOf[msg.sender] >= 1000);
+        require(balanceOf[msg.sender] >= 5);
         middlePalace.push(postin);
        
 }
@@ -282,14 +284,14 @@ function middlePost (string postin) public  {
 
 function openPost (string postin) public {
         require(!frozenAccount[msg.sender]);
-        require(balanceOf[msg.sender] >= 333);
+        require(balanceOf[msg.sender] >= 3);
         openPalace.push(postin);
        
 }
 
 function lowerPost (string postin) public  {
         require(!frozenAccount[msg.sender]);
-        require(balanceOf[msg.sender] >= 111);
+        require(balanceOf[msg.sender] >= 1);
         lowerPlane.push(postin);
         
 }
