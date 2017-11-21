@@ -4,15 +4,15 @@
 The internet is impossible to regulate by nature. It seems controlled through ad gateways and user tracking, but at any point users can circumvent corporations and even governments. They simply need to connect directly to one another.
 
 # 1: GhostKat’s Media Haven
-  GhostKat is a straightforward method for streaming media 'peer2peer' between viewers right in the browser, and without special software, torrent database websites, or even a server.**In fact, there is no server supporting GhostKat at all.** 
+  GhostKat is a straightforward method for streaming media 'peer2peer' between viewers, right in the browser - and without special software, torrent database websites, or even a server. **In fact, there is no server supporting GhostKat at all.** 
   [GhostKat.org](https://www.ghostkat.org) serves a static html page containing code that opens a portal between the user and their media sharing peers. GhostKat never hosts any file data, and never communicates with the viewer's device at all. It's like GhostKat hardly exists. **GhostKat is immortal, unblockable, can move through walls, and is one hundred percent client-side.**
-  Its impossible to remove the file data broadcasted through its network by shutting down our static html server. Our all-in-one html source is all that's needed to run a local version of GK, or spawn endless copies across the world wide web. We highly encourage improving and customizing our basic interface.
+  It is impossible to remove the file data broadcasted through its network by shutting down our static html server. Our all-in-one html source is all that's needed to run a local version of GK, or spawn endless copies across the world wide web. We highly encourage improving and customizing our basic interface.
 
 # 2: GhostKat Style
   It is exteremely easy to replicate what we've done. If you want to, just follow this style.
 We use [Ethereum](https://ethereum.org/) to store the file data (magnet links) needed for users to find others viewing that file. 
 **Our Kontracts are written in Solidity (C for Ethereum), and are secured by a virtual currency we call "Dubloonz"**. 
-Our database is split up into different levels, requiring different amounts of DBZ to post on
+Our database is split up into different levels, requiring different amounts of DBZ to post on. You don't spend the DBZ, however, only a small amount of ETH required to post through Ethereum's smart contract system.
 ```C#
 string[] public katKafe;
 function katPost (string postin) public {
