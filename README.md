@@ -66,7 +66,7 @@ function Ridin (string postin) public  {
        
 }
 ```
-
+Alternatively, [here](https://dontpanicsell.com/2017/11/18/dbz/) is an extended tutorial featuring Parity, for newbies to smart contracts.
 
 # 3: The Eternal Koin Offering (EKO)
 There is one last step in the GhostKat Groove, and that is trust. We have to filter out the spam, the ads, and the bullshit posting that comes with the world wide web. To create our media haven with a healthy degree of trust, we will be giving away DBZ in phases to those who post popular content with honor and distinction. In the end, we will transfer ownership of the currency to the community, by running a transfer owner function on our contract.
