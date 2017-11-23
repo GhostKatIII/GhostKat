@@ -6,7 +6,7 @@ The internet is impossible to regulate by nature. It seems controlled through ad
 
 # 1: GhostKat’s Media Haven 
 ## (is [WebTorrent](https://webtorrent.io/) + [Ethereum](https://ethereum.org/) Shipping)
-  GhostKat is a straightforward method for streaming media 'peer2peer' between viewers, right in the browser, without special software, torrent websites, or even a server. **In fact, there is no server supporting GhostKat at all.** Even in a world where net neutrality were dead, GhostKat can circumvent all means of corporate control. This is the start of a migration to an outter haven protected from any outside authoritarian intervention. 
+  GhostKat is a straightforward method for streaming media 'peer2peer' between viewers, without them needing any special software, torrent websites, or even a server to store file data. **In fact, there is no server supporting GhostKat at all.** Even in a world where net neutrality were dead, GhostKat can circumvent all means of corporate control. This is the start of a migration to a haven protected from any outside authoritarian intervention. 
   
   
   [GhostKat.org](https://www.ghostkat.org) serves a static html page with JavaScript that lets you find other people watching GhostKat. Anyone watching GhostKat is also broadcasting what they are watching to everyone else, also watching. It's a distributed, communistic, and globally available protocol for transferring media. GhostKat never hosts any file data, and never communicates with the viewer's device at all. It's like we hardly exist. **GhostKat is immortal, unblockable, one hundred percent client-side, and can move through walls.**
