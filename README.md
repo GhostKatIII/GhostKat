@@ -119,19 +119,18 @@ Our GK Kontract has seven arrays.
 + Lower Plane -1 DBZ - lowerPost
 + Mr. Bones - 0 DBZ - ridin
 
-*The numbers represent how much DBZ you must have in your cryptographic wallet to prove you are trusted enough to post on the array. Anyone can post to Mr.Bones, and we have an alternate interface targeting Mr.B on our Github. We do not wish to host this interface oursevles due to how unregulated it is.*
+*The numbers represent how much DBZ you must have in your cryptographic wallet to prove you are trusted enough to post on the array. Anyone can post to Mr.Bones. We do not wish to host this interface ourselves due to it's potential to be abused.*
 
 # PHASE I: The Eternal Charity of GhostKat
-There are 3999 DBZ in existance. 999 are loaded into the contract itself, and can be purchased via the buy function. The rest is owned by ourselves, Chairmen Meow GhostKat III, the Super Lucky Kat, Royally, Plurally, Introducing. 
+There are 3999 DBZ in existance. 999 are loaded into the contract itself, and can be purchased via the buy function. The rest is owned by ourselves.
 
 ## We will be giving away 1,999 DBZ to users of GhostKat who add value to the system.
 Once 1999 DBZ are out in the community, and the community is thriving, we will transfer ownership to the **DPS**. At the beginning, we are giving away only 1 DBZ at a time. **We will give 1 DBZ to anyone who sends us a magnet link they are seeding out at or above 500 mb/s.** Send us the magnet link via email at GhostKat2017@gmail.com, message us on Github, or just post that link to Mr.Bones. Be sure to include your ethereum address, and seed the magnet link via WebTorrent or WebTorrent compatible client.
 
 # PHASE II: Open Fire
-After phase I, we will give popular and effective users five Dubloonz, elevating them to middle post.From there we will stop giving DBZ to new people, and *anyone wishing to enter the community will need to buy DBZ.*
+After phase I, we will give popular and effective users five Dubloonz, elevating them to middle post. From there we will stop giving DBZ to new people, and *anyone wishing to enter the community will need to buy DBZ.*
 
-
-Fundraising is important, but secondary to establishing a trusted network of posters and hosters. After the community gets active and on its feet, we will give very large shares to the early adopters who are the most trusted. *We will continue giving away DBZ to the community until there are many Kats (27 DBZ), and a few Legend Kittens (99 DBZ).* At this point we will transfer ownership over to the Dubloonz Piracy SyndiKat. **If you don't trust us, all of our code is free to copy. What we do with fundraising money is completely transparent, and the lions share will be left for the DPS to distribute. The world needs piracy meow.** 
+Fundraising is important, but secondary to establishing a trusted network of posters and hosters. After the community gets active and on its feet, we will give very large shares to the early adopters who are the most trusted. *We will continue giving away DBZ to the community until there are many Kats (27 DBZ), and a few Legend Kittens (99 DBZ).* At this point we will transfer ownership over to the Dubloonz Piracy SyndiKat. **If you don't trust us, all of our code is free to copy. What we do with fundraising money is completely transparent, and the lions share will be left for the DPS. The world needs piracy meow.** 
 
 # PHASE III: Focus Fire
 During this phase we will return our remaining DBZ balance of 1001 to the contract and the community. We will put all funds raised towards establishing an expanded GK network that handles music, TV, and Movies. By divesting, we will have no legal or literal connection to DBZ, but this is better so that the system is completely distributed through the community. We hope to again reward members of the community in all aspects, in DBZ, and by showing our good faith by also giving over most DBZ raised before transfer.
